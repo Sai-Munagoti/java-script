@@ -1,0 +1,8 @@
+body { font-family: Arial, Helvetica, sans-serif; margin: 0; }
+a { color: inherit }
+button { padding: 8px 12px; }
+input, select { padding: 6px; width: 100%; box-sizing: border-box; margin-top: 4px; }
+
+
+/* Ensure content isn't hidden under fixed navbar */
+body { padding-top: 80px; }

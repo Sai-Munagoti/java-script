@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin User",
+      "email": "admin@example.com",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Regular User",
+      "email": "user@example.com",
+      "password": "user123",
+      "role": "user"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Public Post 2",
+      "content": "Hello world!"
+    },
+    {
+      "title": "Post Title 1",
+      "content": "Post Comment",
+      "id": 2
+    }
+  ]
+}
