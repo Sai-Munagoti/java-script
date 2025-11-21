@@ -1,4 +1,4 @@
-# Step 1: Use NGINX Base Image
+# Step 1: Use NGINX Base Image.
 FROM nginx:alpine
 
 # Step 2: Install required tools
